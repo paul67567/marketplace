@@ -1,7 +1,7 @@
 package marketplace
 
 import (
-	"modules/apis"
+	"github.com/paul67567/apis"
 	"sync"
 )
 
